@@ -1,1 +1,1 @@
-![logo](https://github.com/ProtikgoswamiCSE/Ai/blob/main/Screenshot%202025-04-12%20215050.png)
+![logo]({CDF4AF1F-3AD2-49FA-A0E7-7BC71145E939}.png)
